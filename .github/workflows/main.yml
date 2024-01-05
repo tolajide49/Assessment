@@ -3,7 +3,7 @@ name: Final task
 on:
   push:
     branches:
-      - master
+      - main
       - WWEB_Test
 
 jobs:
